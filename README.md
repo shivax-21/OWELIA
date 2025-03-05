@@ -58,7 +58,7 @@ zip_ref.close()
     <p>➡ Overall, our research highlighted the urgency and importance of addressing food insecurity, and Spoon Share emerged as a solution-driven platform to make a meaningful impact on this critical issue. </p>
     <p>➡ We also conducted a survey to get community response for some sought after features listed below.</p>
     <td>
-      <img src="https://i.postimg.cc/d1n0sT28/image.png" alt="Image 1" style="width: 100%;">
+      <img src="![Image](https://github.com/user-attachments/assets/ff2e7272-40af-47ea-a85b-7618ee1379c0)" alt="Image 1" style="width: 100%;">
     </td>
     <td>
       <img src="https://i.postimg.cc/vHxGjKN7/image.png" alt="Image 8" style="width: 100%;">
