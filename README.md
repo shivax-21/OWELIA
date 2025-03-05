@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/1c4c86dc-0eb3-4998-9960-feb32a5535b3)
 # OWELIA - Ovarian Wellness & Early Learning AI
 Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning Classifiers
-## Introduction
+# Introduction
 
 **Problem Statement**: Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder affecting individuals of reproductive age, often leading to complications like irregular periods, infertility, metabolic issues and the most common cause of anovulatory infertility; ∼90–95% of anovulatory women seeking treatment for infertility have PCOS. So, an early detection of PCOS can help in timely medical intervention and lifestyle management.
 
@@ -18,7 +18,7 @@ To learn more, follow this <a href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/htm
 **Sasha Ottey is the founder and executive director of PCOS Challenge: The National Polycystic Ovary Syndrome Association, the leading patient support and advocacy organisation for women and girls with PCOS**,  sharing how once she got diagnosed with PCOS after two decades of having it,
 
 I was diagnosed with PCOS in my late 20s after missing a period and visiting my ObGYN. Despite clear symptoms since adolescence, my diagnosis was delayed due to lack of awareness and missed opportunities by healthcare providers. My doctors offered little guidance—one dismissing my irregular periods and another advising weight loss without support. Frustrated and left to manage on my own.
- 
+
 After doing research, I found out that I had been experiencing PCOS symptoms such as hair loss and weight gain since adolescence. Looking back at my history, I found that there were many missed opportunities for an earlier diagnosis, but due to my own lack of awareness about PCOS, and various specialists not asking the right questions, I was diagnosed almost two decades after the onset of symptoms.
 
 This story clearly shows that early awareness and detection of PCOS are the biggest needs for the women having it, without knowing, so that with the clear diagnosis and advised medication, they can help them to reverse PCOS. Indeed, people like Shasha are there to help those who are in need.
@@ -26,3 +26,11 @@ This story clearly shows that early awareness and detection of PCOS are the bigg
 # Getting Started 
 > [!IMPORTANT]  
 > The model requires Internet connection and internal memory to run properly on jupyter notebook or else you can use google collab.
+## Dataset 
+1. To download your dataset from Kaggle, click [here](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos).
+2. If you want to run the model on google collab without dowloading it, follow these steps:
+- Click on kaggle link: https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+- Click on your profile picture (top right) > Account.
+- Scroll down to the API section and click Create New API Token.
+- This will download a file named kaggle.json.
+ 
