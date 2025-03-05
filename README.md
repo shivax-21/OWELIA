@@ -53,26 +53,31 @@ zip_ref.extractall('/content')
 zip_ref.close()
  ```
 
-<table style="width: 100%;">
-    <p>➡ These are the step to step guide for better understanding. </p>
-    <td>
-      <img src="https://i.postimg.cc/Sxf63GMC/Screenshot-2025-03-05-214015.png" alt="Image 1" style="width: 100%;">
-    </td>
-    <td>
-      <img src="https://i.postimg.cc/vHxGjKN7/image.png" alt="Image 8" style="width: 100%;">
-    </td>
-  </tr>
-  <tr> 
-    <td style="text-align: center;">
-      <img src="https://i.postimg.cc/jjx0s3ZF/image.png" alt="Image 2" style="width: 100%;">  
-    </td>
-    <td style="text-align: center;">
-      <img src="https://i.postimg.cc/xd1fsdD8/image.png" alt="Image 3" style="width: 100%;">
-    </td>
-  </tr>
+<table>
   <tr>
-
-
+    <td align="center">
+      <a href="https://youtu.be/gYjR6zsZcd0" target="_blank">
+        <img src="[![Screenshot-2025-03-05-214015.png](https://i.postimg.cc/Sxf63GMC/Screenshot-2025-03-05-214015.png)](https://postimg.cc/G49TsGzm)" alt="Image 1" width="250">
+      </a>
+      <br>
+      <b>SpoonShare FeedBacks</b>
+    </td>
+    <td align="center">
+      <a href="https://photos.app.goo.gl/x91E3NJ3JcX94yoM6" target="_blank">
+        <img src="https://i.postimg.cc/Pq2jnqqv/IMG20240502113610.jpg" alt="Image 2" width="250">
+      </a>
+      <br>
+      <b>Realtime Feedback</b>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1q9LeB-AVDsXh8Wi0wNFbHtjDgMsyDyjC/view?usp=drivesdk" target="_blank">
+        <img src="https://i.postimg.cc/vHQ7NSf2/image.png" alt="Image 3" width="250">
+      </a>
+      <br>
+      <b>Survey Report</b>
+    </td>
+  </tr>
+</table>
 
 
  
