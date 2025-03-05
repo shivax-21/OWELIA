@@ -57,7 +57,7 @@ zip_ref.close()
   <tr>
     <td align="center">
       <a href="https://youtu.be/gYjR6zsZcd0" target="_blank">
-        <img src="[![Screenshot-2025-03-05-214015.png](https://i.postimg.cc/Sxf63GMC/Screenshot-2025-03-05-214015.png)](https://postimg.cc/G49TsGzm)" alt="Image 1" width="250">
+        <img src="[![Screenshot-2025-03-05-214015.png](https://i.postimg.cc/Sxf63GMC/Screenshot-2025-03-05-214015.png)](https://postimg.cc/G49TsGzm)" alt="Image 1">
       </a>
       <br>
       <b>SpoonShare FeedBacks</b>
