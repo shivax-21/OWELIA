@@ -55,8 +55,8 @@ zip_ref.close()
 <table>
   <tr>
     <td>
-      <a href="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)">
-        <img src="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)" style="width: 100px; height: 100px;" alt="1:1 Image">
+      <a href= [![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)>
+        <img src=[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX) style="width: 100px; height: 100px;" alt="1:1 Image">
       </a>
     </td>
     <td>
