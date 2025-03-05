@@ -58,9 +58,9 @@ zip_ref.close()
 
 <table>
   <tr>
-    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="200"></td>
-    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="200"></td>
-    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg" width="200"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg" width="300"></td>
   </tr>
 </table>
 
