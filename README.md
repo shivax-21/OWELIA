@@ -70,7 +70,7 @@ zip_ref.close()
 > [!NOTE]  
 > The dataset provided on Kaggle is an Excel file to avoid any bugs, use the CSV file provided inside this repo.
 
-Click [here](https://github.com/shivax-21/OWELIA/blob/main/dataset/clean_data.csv) to download the raw files. 
+Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download the raw csv files. 
 
 
  
