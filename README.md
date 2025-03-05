@@ -62,6 +62,11 @@ zip_ref.close()
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="300"></td>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg" width="300"></td>
   </tr>
+   <tr>
+    <td><b>Image 1</b><br> Description of Image 1</td>
+    <td><b>Image 2</b><br> Description of Image 2</td>
+    <td><b>Image 3</b><br> Description of Image 3</td>
+  </tr>
 </table>
 
 
