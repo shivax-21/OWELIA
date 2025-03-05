@@ -29,29 +29,30 @@ This story clearly shows that early awareness and detection of PCOS are the bigg
 ## Dataset 
 To download your dataset from Kaggle, click [here](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos).
 ## Run SetUp
-1. To run the model on google collab without dowloading it, follow these steps:
-- Go to Kaggle: https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
-- Click on your profile picture (top right) > Account.
-- Scroll down to the API section and click **Create New API Token**.
-- This will download a file named **kaggle.json**.
-2. Create a google collab notebook, Run these steps:
-- Upload your kaggle.json file.
-- Run the following codes in the code cell.
+- To run the model on google collab without dowloading it, follow these steps:
+1. Go to Kaggle: https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+2. Click on your profile picture (top right) > Account.
+3. Scroll down to the API section and click **Create New API Token**.
+4. This will download a file named **kaggle.json**.
+- Create a google collab notebook, Run these steps:
+5. Upload your kaggle.json file.
+6. Run the following codes in the code cell.
 ```bash
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
  ```
-- Copy path of the kaggle.json file, and replace it in the code below after word dwonload.
+7. Copy path of the kaggle.json file, and replace it in the code below after word (download).
 ```bash
 !kaggle datasets download prasoonkottarathil/polycystic-ovary-syndrome-pcos
  ```
-- A zipped file will appear on the file section, copy the path and paste it in the code below to get the csv file. 
+8. A zipped file will appear on the file section, copy the path and paste it in the code below to get the csv file. 
 ```bash
 import zipfile
 zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
 zip_ref.extractall('/content')
 zip_ref.close()
  ```
+
 
 
  
