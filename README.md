@@ -56,6 +56,14 @@ zip_ref.close()
 |---------|---------|---------|
 | ![Alt text](https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg) | ![Alt text](https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg) | ![Alt text](https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg) |
 
+<table>
+  <tr>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="200"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="200"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg" width="200"></td>
+  </tr>
+</table>
+
 
 
  
