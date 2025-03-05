@@ -41,17 +41,18 @@ To download your dataset from Kaggle, click [here](https://www.kaggle.com/datase
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
  ```
-7. Copy path of the kaggle.json file, and replace it in the code below after word (download).
+7. A ,json file will appear on the file section Copy path of the kaggle.json file, and replace it in the code below after the word (download).
 ```bash
 !kaggle datasets download prasoonkottarathil/polycystic-ovary-syndrome-pcos
  ```
-8. A zipped file will appear on the file section, copy the path and paste it in the code below to get the csv file. 
+8. A .zip file will appear on the file section, copy the path and paste it in the code below to get the csv file. 
 ```bash
 import zipfile
 zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
 zip_ref.extractall('/content')
 zip_ref.close()
  ```
+
 
 
 
