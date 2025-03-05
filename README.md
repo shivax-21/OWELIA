@@ -41,7 +41,7 @@ To download your dataset from Kaggle, click [here](https://www.kaggle.com/datase
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
  ```
-7. A ,json file will appear on the file section Copy path of the kaggle.json file, and replace it in the code below after the word (download).
+7. A .json file will appear on the file section Copy path of the kaggle.json file, and replace it in the code below after the word (download).
 ```bash
 !kaggle datasets download prasoonkottarathil/polycystic-ovary-syndrome-pcos
  ```
@@ -53,7 +53,7 @@ zip_ref.extractall('/content')
 zip_ref.close()
  ```
 <table>
-    <p>➡ These image guide will hel you for better understanding of codes. </p>
+    <p>➡ These image guide will help you for better understanding of codes. </p>
   <tr>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="300"></td>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="300"></td>
