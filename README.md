@@ -5,7 +5,7 @@ Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning 
 
 **Problem Statement**: Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder affecting individuals of reproductive age, often leading to complications like irregular periods, infertility, metabolic issues and the most common cause of anovulatory infertility; ∼90–95% of anovulatory women seeking treatment for infertility have PCOS. So, an early detection of PCOS can help in timely medical intervention and lifestyle management.
 
-**Solution**: OWELIA, a specially trained AI model leverages machine learning techniques to develop an early stage detection of PCOS using medical and lifestyle data. By analyzing key health indicators, the model aims to provide an efficient and data-driven approach to assist healthcare professionals in diagnosing PCOS accurately.
+**Solution**: OWELIA, an especially trained AI model leverages machine learning techniques to develop an early stage detection of PCOS using medical and lifestyle data. By analyzing key health indicators, the model aims to provide an efficient and data-driven approach to assist healthcare professionals in diagnosing PCOS accurately.
 
 ## Global trends in PCOS, National Institutes of Health (NIH) article, Januaury 9, 2023 
 ![Image](https://github.com/user-attachments/assets/a728d616-e449-4ec6-8f50-0f0485a8d725)
