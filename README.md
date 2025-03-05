@@ -27,10 +27,20 @@ This story clearly shows that early awareness and detection of PCOS are the bigg
 > [!IMPORTANT]  
 > The model requires Internet connection and internal memory to run properly on jupyter notebook or else you can use google collab.
 ## Dataset 
-1. To download your dataset from Kaggle, click [here](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos).
-2. If you want to run the model on google collab without dowloading it, follow these steps:
-- Click on kaggle link: https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+To download your dataset from Kaggle, click [here](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos).
+## Run SetUp
+1. To run the model on google collab without dowloading it, follow these steps:
+- Go to Kaggle: https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
 - Click on your profile picture (top right) > Account.
-- Scroll down to the API section and click Create New API Token.
-- This will download a file named kaggle.json.
+- Scroll down to the API section and click **Create New API Token**.
+- This will download a file named **kaggle.json**.
+2. Create a google collab notebook, Run these steps:
+- Upload your kaggle.json file.
+- Run the following codes
+```bash
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+ ```
+
+
  
