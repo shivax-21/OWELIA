@@ -53,6 +53,7 @@ zip_ref.extractall('/content')
 zip_ref.close()
  ```
 <table>
+    <p>➡ These image guide will hel you for better understanding of codes. </p>
   <tr>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="300"></td>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="300"></td>
