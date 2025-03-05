@@ -34,7 +34,7 @@ To download your dataset from Kaggle, click [here](https://www.kaggle.com/datase
 2. Click on your profile picture (top right) > Account.
 3. Scroll down to the API section and click **Create New API Token**.
 4. This will download a file named **kaggle.json**.
-- Create a google collab notebook, Run these steps:
+- Create a google collab notebook and Run these steps:
 5. Upload your kaggle.json file.
 6. Run the following codes in the code cell.
 ```bash
@@ -52,6 +52,27 @@ zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
 zip_ref.extractall('/content')
 zip_ref.close()
  ```
+
+<table style="width: 100%;">
+  <tr>
+    <p>➡ Overall, our research highlighted the urgency and importance of addressing food insecurity, and Spoon Share emerged as a solution-driven platform to make a meaningful impact on this critical issue. </p>
+    <p>➡ We also conducted a survey to get community response for some sought after features listed below.</p>
+    <td>
+      <img src="https://i.postimg.cc/d1n0sT28/image.png" alt="Image 1" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/vHxGjKN7/image.png" alt="Image 8" style="width: 100%;">
+    </td>
+  </tr>
+  <tr> 
+    <td style="text-align: center;">
+      <img src="https://i.postimg.cc/jjx0s3ZF/image.png" alt="Image 2" style="width: 100%;">  
+    </td>
+    <td style="text-align: center;">
+      <img src="https://i.postimg.cc/xd1fsdD8/image.png" alt="Image 3" style="width: 100%;">
+    </td>
+  </tr>
+  <tr>
 
 
 
