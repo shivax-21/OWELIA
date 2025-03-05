@@ -54,11 +54,7 @@ zip_ref.close()
  ```
 | Image 1 | Image 2 | Image 3 |
 |---------|---------|---------|
-| ![Alt text](| Step 1 | Step 2 | Step 3 |
-|---------|---------|---------|
-| ![Alt text](https://github.com/your-username/your-repo/blob/main/image.png) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image2.png) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image3.png) |
-) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image2.png) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image3.png) |
-
+| ![Alt text]() | ![Alt text]() | ![Alt text]() |
 
 
 
