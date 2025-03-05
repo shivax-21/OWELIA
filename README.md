@@ -52,10 +52,6 @@ zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
 zip_ref.extractall('/content')
 zip_ref.close()
  ```
-| Image 1 | Image 2 | Image 3 |
-|---------|---------|---------|
-| ![Alt text](https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg) | ![Alt text](https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg) | ![Alt text](https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg) |
-
 <table>
   <tr>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="300"></td>
@@ -63,9 +59,9 @@ zip_ref.close()
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg" width="300"></td>
   </tr>
    <tr>
-    <td><b>Image 1</b><br> Description of Image 1</td>
-    <td><b>Image 2</b><br> Description of Image 2</td>
-    <td><b>Image 3</b><br> Description of Image 3</td>
+    <td><b>Step 1</b><br> Drag and upload json.</td>
+    <td><b>Step 2</b><br> Copy paths.</td>
+    <td><b>Step 3</b><br> End of steps.</td>
   </tr>
 </table>
 
