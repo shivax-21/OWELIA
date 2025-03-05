@@ -65,6 +65,7 @@ zip_ref.close()
     <td><b>Step 3</b><br> End of steps.</td>
   </tr>
 </table>
+
 > [!NOTE]  
 > The dataset provided on Kaggle is an Excel file to avoid any bugs.  Use the CSV file provided inside this repo.
 
