@@ -21,3 +21,5 @@ I was diagnosed with PCOS in my late 20s after missing a period and visiting my 
  
 After doing research, I found out that I had been experiencing PCOS symptoms such as hair loss and weight gain since adolescence. Looking back at my history, I found that there were many missed opportunities for an earlier diagnosis, but due to my own lack of awareness about PCOS, and various specialists not asking the right questions, I was diagnosed almost two decades after the onset of symptoms.
 
+This story clearly shows that early awareness and detection of PCOS are the biggest needs for the women having it, without knowing, so that with the clear diagnosis and advised medication, they can help them to reverse PCOS. Indeed, people like Shasha are there to help those who are in need.
+
