@@ -23,3 +23,6 @@ After doing research, I found out that I had been experiencing PCOS symptoms suc
 
 This story clearly shows that early awareness and detection of PCOS are the biggest needs for the women having it, without knowing, so that with the clear diagnosis and advised medication, they can help them to reverse PCOS. Indeed, people like Shasha are there to help those who are in need.
 
+# Getting Started 
+[!IMPORTANT]  
+> The model requires Internet connection and internal memory to run properly on jupyter notebook or else you can use google collab.
