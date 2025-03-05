@@ -8,6 +8,8 @@ Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning 
 **Solution**: OWELIA, a specially trained AI model leverages machine learning techniques to develop an early stage detection of PCOS using medical and lifestyle data. By analyzing key health indicators, the model aims to provide an efficient and data-driven approach to assist healthcare professionals in diagnosing PCOS accurately.
 
 ## National Institutes of Health (NIH) article, 2023 Januaury 9 
-A world map displaying the contribution of each country to PCOS research based on publication counts: the darker the color, the more publications, as shown at the bottom left.
 ![Image](https://github.com/user-attachments/assets/a728d616-e449-4ec6-8f50-0f0485a8d725)
+
+A world map displaying the contribution of each country to PCOS research based on publication counts: the darker the color, the more publications, as shown at the bottom left.
+
 
