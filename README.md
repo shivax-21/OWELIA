@@ -66,8 +66,9 @@ zip_ref.close()
   </tr>
 </table>
 
+
 > [!NOTE]  
-> The dataset provided on Kaggle is an Excel file to avoid any bugs.  Use the CSV file provided inside this repo.
+> The dataset provided on Kaggle is an Excel file to avoid any bugs, use the CSV file provided inside this repo.
 
 
 
