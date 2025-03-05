@@ -36,10 +36,21 @@ To download your dataset from Kaggle, click [here](https://www.kaggle.com/datase
 - This will download a file named **kaggle.json**.
 2. Create a google collab notebook, Run these steps:
 - Upload your kaggle.json file.
-- Run the following codes
+- Run the following codes in the code cell.
 ```bash
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
+ ```
+- Copy path of the kaggle.json file, and replace it in the code below after word dwonload.
+```bash
+!kaggle datasets download prasoonkottarathil/polycystic-ovary-syndrome-pcos
+ ```
+- A zipped file will appear on the file section, copy the path and paste it in the code below to get the csv file. 
+```bash
+import zipfile
+zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
+zip_ref.extractall('/content')
+zip_ref.close()
  ```
 
 
