@@ -52,25 +52,13 @@ zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
 zip_ref.extractall('/content')
 zip_ref.close()
  ```
-<table>
-  <tr>
-    <td>
-      <a href= [![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)>
-        <img src=[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX) style="width: 100px; height: 100px;" alt="1:1 Image">
-      </a>
-    </td>
-    <td>
-       <a href="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)">
-        <img src="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)" style="width: 100px; height: 100px;" alt="1:1 Image">
-      </a>
-    </td>
-       <td>
-      <a href="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)">
-        <img src="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)" style="width: 100px; height: 100px;" alt="1:1 Image">
-      </a>
-    </td>
-  </tr>
-</table>
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![Alt text](| Step 1 | Step 2 | Step 3 |
+|---------|---------|---------|
+| ![Alt text](https://github.com/your-username/your-repo/blob/main/image.png) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image2.png) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image3.png) |
+) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image2.png) | ![Alt text](https://github.com/your-username/your-repo/blob/main/image3.png) |
+
 
 
 
