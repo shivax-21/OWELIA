@@ -52,32 +52,26 @@ zip_ref = zipfile.ZipFile('/content/polycystic-ovary-syndrome-pcos.zip', 'r')
 zip_ref.extractall('/content')
 zip_ref.close()
  ```
-
 <table>
   <tr>
-    <td align="center">
-      <a href="https://youtu.be/gYjR6zsZcd0" target="_blank">
-        <img src="[![Screenshot-2025-03-05-214015.png](https://i.postimg.cc/Sxf63GMC/Screenshot-2025-03-05-214015.png)](https://postimg.cc/G49TsGzm)" alt="Image 1">
+    <td>
+      <a href="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)">
+        <img src="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)" style="width: 100px; height: 100px;" alt="1:1 Image">
       </a>
-      <br>
-      <b>SpoonShare FeedBacks</b>
     </td>
-    <td align="center">
-      <a href="https://photos.app.goo.gl/x91E3NJ3JcX94yoM6" target="_blank">
-        <img src="https://i.postimg.cc/Pq2jnqqv/IMG20240502113610.jpg" alt="Image 2" width="250">
+    <td>
+       <a href="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)">
+        <img src="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)" style="width: 100px; height: 100px;" alt="1:1 Image">
       </a>
-      <br>
-      <b>Realtime Feedback</b>
     </td>
-    <td align="center">
-      <a href="https://drive.google.com/file/d/1q9LeB-AVDsXh8Wi0wNFbHtjDgMsyDyjC/view?usp=drivesdk" target="_blank">
-        <img src="https://i.postimg.cc/vHQ7NSf2/image.png" alt="Image 3" width="250">
+       <td>
+      <a href="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)">
+        <img src="[![IMG-20250305-221801.jpg](https://i.postimg.cc/Vkk8Snt1/IMG-20250305-221801.jpg)](https://postimg.cc/2VMJMqTX)" style="width: 100px; height: 100px;" alt="1:1 Image">
       </a>
-      <br>
-      <b>Survey Report</b>
     </td>
   </tr>
 </table>
+
 
 
  
