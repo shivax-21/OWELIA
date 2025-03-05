@@ -11,5 +11,5 @@ Prediction of Polycystic Ovary Syndrome (PCOS) Using Optimized Machine Learning 
 ![Image](https://github.com/user-attachments/assets/a728d616-e449-4ec6-8f50-0f0485a8d725)
 
 A world map displaying the contribution of each country to PCOS research based on publication counts: the darker the color, the more publications, as shown at the bottom left.
-
+To learn more, follow this [Link]([https://example.com](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9868474_fendo-13-1027945-g002.jpg))
 
