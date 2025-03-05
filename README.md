@@ -54,7 +54,6 @@ zip_ref.close()
  ```
 
 <table style="width: 100%;">
-  <tr>
     <p>➡ These are the step to step guide for better understanding. </p>
     <td>
       <img src="https://i.postimg.cc/Sxf63GMC/Screenshot-2025-03-05-214015.png" alt="Image 1" style="width: 100%;">
