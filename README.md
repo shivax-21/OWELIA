@@ -82,6 +82,20 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
   </tr>
 </table>
 
+<table>
+    <p>➡ These image guide will help you for better understanding of codes. </p>
+  <tr>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221815.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221831.jpg" width="300"></td>
+  </tr>
+   <tr>
+    <td><b>Step 1</b><br> Drag and upload json.</td>
+    <td><b>Step 2</b><br> Copy paths.</td>
+    <td><b>Step 3</b><br> End of steps.</td>
+  </tr>
+</table>
+
 
 
 
