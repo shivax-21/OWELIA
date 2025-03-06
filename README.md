@@ -96,6 +96,20 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
     <td><b>3. XGBOOST</b><br>~88.9% accuracy</td>
   </tr>
 </table>
+<table>
+    <p>➡ These images will show accuracy accquired by each classifiers. </p>
+  <tr>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250306_172102.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250306_172038.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250306_172151.jpg" width="300"></td>
+  </tr>
+   <tr>
+    <td><b>1. Multi-Layer Perceptron</b><br>~82.41% accuracy</td>
+    <td><b>2. Random Forest</b><br>~90.44% accuracy</td>
+    <td><b>3. XGBOOST</b><br>~88.9% accuracy</td>
+  </tr>
+</table>
+
 
 
 
