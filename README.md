@@ -106,7 +106,7 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
    <tr>
     <td><b>1. K-Neighbors</b><br>~94.69% accuracy</td>
     <td><b>2. SVC</b><br>~97.35% accuracy</td>
-    <td><b>3. Random ForestC</b><br>100.00% accuracy</td>
+    <td><b>3. Random Forest</b><br>100.00% accuracy</td>
   </tr>
 </table>
 
