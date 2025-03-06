@@ -110,7 +110,14 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
   </tr>
 </table>
 
-For a deeper understanding, explore the complete notebook provided [here](https://github.com/shivax-21/OWELIA/blob/main/Notebooks/OWELIA.ipynb). You can also access it on Google Colab by clicking [here](https://colab.research.google.com/drive/1SaSU85mp6_fTOl526uBv2M47gnyJ_oS7?usp=sharing). 🚀
+For a deeper understanding, explore the complete notebook provided [here](https://github.com/shivax-21/OWELIA/blob/main/Notebooks/OWELIA.ipynb). You can also access it on Google Colab by clicking [here](https://colab.research.google.com/drive/1SaSU85mp6_fTOl526uBv2M47gnyJ_oS7?usp=sharing). 
+
+# Conclusion
+We explored the prediction of Polycystic Ovary Syndrome (PCOS) using machine learning techniques. By leveraging data preprocessing, feature engineering, and model evaluation, we built a predictive model to assist in early diagnosis and awareness of PCOS.
+
+While our model shows promising results, further improvements can be made by incorporating larger datasets, advanced feature selection, and deep learning approaches. This work serves as a step toward utilizing AI in healthcare and early detection, potentially aiding in better management and timely interventions.
+
+Thank you for exploring this notebook! I hope it contributes to raising awareness and encourages further research in this critical domain. 
 
 
 
