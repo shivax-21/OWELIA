@@ -119,6 +119,13 @@ While our model shows promising results, further improvements can be made by inc
 
 Thank you for exploring this notebook! I hope it contributes to raising awareness and encourages further research in this critical domain. 
 
+# About the Author
+I am Shivani Patwa, 2nd year undergraduate from JK Institute of Applied Physics and Technology, University of Allahabad, Prayagaraj, Uttar Pradesh, passionate about leveraging technology to address real-world health challenges, and this PCOS detection project is a step toward making early diagnosis more accessible and efficient. While this model provides valuable insights, I believe there’s always room for improvement.
+
+I warmly welcome researchers, developers, and healthcare professionals to collaborate and enhance this project further. Let’s refine, innovate, and push the boundaries of perfection together! 
+
+Feel free to connect and contribute—every idea counts!
+
 
 
 
