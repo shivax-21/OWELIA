@@ -125,7 +125,7 @@ I am Shivani Patwa, 2nd year undergraduate from JK Institute of Applied Physics 
 
 I warmly welcome researchers, developers, and healthcare professionals to collaborate and enhance this project further. Let’s refine, innovate, and push the boundaries of perfection together! 
 
-Feel free to connect and contribute—every idea counts!
+Feel free to connect and contribute, every idea counts!
 
 
 
