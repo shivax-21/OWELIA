@@ -110,6 +110,8 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
   </tr>
 </table>
 
+For a deeper understanding, explore the complete notebook provided [here](https://github.com/shivax-21/OWELIA/blob/main/Notebooks/OWELIA.ipynb). You can also access it on Google Colab by clicking [here](https://colab.research.google.com/drive/1SaSU85mp6_fTOl526uBv2M47gnyJ_oS7?usp=sharing). 🚀
+
 
 
 
