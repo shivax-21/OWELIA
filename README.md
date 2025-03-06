@@ -97,16 +97,16 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
   </tr>
 </table>
 <table>
-    <p>➡ These images will show accuracy accquired by each classifiers. </p>
+    <p>➡ To increase the accuracy futher we will apply SMOTE (Synthetic Minority Over-sampling Technique), synthetically generating new minority class samples and increase our models' accuracy upto 100% .</p>
   <tr>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250306_172203.jpg" width="300"></td>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250306_172022.jpg" width="300"></td>
     <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250306_173637.jpg" width="300"></td>
   </tr>
    <tr>
-    <td><b>1. Multi-Layer Perceptron</b><br>~94.69% accuracy</td>
-    <td><b>2. Random Forest</b><br>~97.35% accuracy</td>
-    <td><b>3. XGBOOST</b><br>100.00% accuracy</td>
+    <td><b>1. K-Neighbors</b><br>~94.69% accuracy</td>
+    <td><b>2. SVC</b><br>~97.35% accuracy</td>
+    <td><b>3. Random ForestC</b><br>100.00% accuracy</td>
   </tr>
 </table>
 
