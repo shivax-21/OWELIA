@@ -75,10 +75,10 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
 <table>
     <p>➡ Data Visuals for understanding. </p>
   <tr>
-    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/IMG_20250305_221801.jpg" width="300"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/SAVE_20250306_164720.jpg" width="300"></td>
   </tr>
    <tr>
-    <td><b>Step 1</b><br> Drag and upload json.</td>
+    <td><b>-</b><br>Data Counts</td>
   </tr>
 </table>
 
