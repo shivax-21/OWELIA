@@ -75,7 +75,7 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
 <table>
     <p>➡ Data Visuals for understanding. </p>
   <tr>
-    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/SAVE_20250306_164720.jpg"></td>
+    <td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/SAVE_20250306_164720.jpg" width="500"></td>
   </tr>
    <tr>
     <td><b></b><br>Data Counts</td>
