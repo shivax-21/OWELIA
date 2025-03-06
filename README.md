@@ -81,6 +81,7 @@ Click [here](https://github.com/shivax-21/OWELIA/tree/main/dataset) to download 
     <td><b>Data Counts</b></td>
   </tr>
 </table>
+
 ## Classifiers & their Results
 <table>
     <p>➡ These images will show accuracy accquired by each classifiers. </p>
