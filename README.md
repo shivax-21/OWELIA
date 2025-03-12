@@ -16,8 +16,7 @@ To learn more, follow this <a href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/htm
 ## How PCOS changes one's life!!!
 ### My Life with PCOS: A Real-Life Story, The National Infertility Association article, September 16, 2019
 ### Meet SHASHA
-<td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/Sasha-Night-of-Hope-Award-landscape.jpg"></td>
-Left side lady in the image.
+<td><img src="https://github.com/shivax-21/OWELIA/blob/main/images/Sasha-Night-of-Hope-Award-landscape.jpg"></td> (Left-side lady in the image).
 
 **Sasha Ottey is the founder and executive director of PCOS Challenge: The National Polycystic Ovary Syndrome Association, the leading patient support and advocacy organisation for women and girls with PCOS**,  sharing how once she got diagnosed with PCOS after two decades of having it,
 
@@ -27,8 +26,8 @@ After doing research, I found out that I had been experiencing PCOS symptoms suc
 
 This story clearly shows that early awareness and detection of PCOS are the biggest needs for the women having it, without knowing, so that with the clear diagnosis and advised medication, they can help them to reverse PCOS. Indeed, people like Shasha are there to help those who are in need.
 
-Read about her more from [here](https://resolve.org/my-life-with-pcos-a-personal-story/).
-Shasha Ottey [LinkedIn](https://www.linkedin.com/in/pcoschallenge/).
+Read more about her story from [here](https://resolve.org/my-life-with-pcos-a-personal-story/).
+ Contact, Shasha Ottey on [LinkedIn](https://www.linkedin.com/in/pcoschallenge/).
 
 # Getting Started 
 > [!IMPORTANT]  
